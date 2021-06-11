@@ -21,15 +21,4 @@ Kısa Bağlantı Adresi: https://bit.ly/32k9MnJ
 Github Adresi: https://github.com/bmdersleri
 
 
-
-Video Zaman Çizelgesi:
-00:00 Giriş
-00:21 İçindekiler
-00:31 C# Nedir?
-00:50 C# Özellikleri
-02:20 C# Tarihçesi
-03:45 C# Kurulumu
-06:08 Kaynaklar
-06:10 Bitiş
-
 Hazırlayan: Ahmet NERGİZ
