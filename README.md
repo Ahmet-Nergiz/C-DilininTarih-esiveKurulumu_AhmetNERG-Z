@@ -1,4 +1,4 @@
-#C# Dilinin Tarihçesi ve Kurulumu
+
 Konu Başlığı: C# Dilinin Tarihçesi ve Kurulumu
 
 
